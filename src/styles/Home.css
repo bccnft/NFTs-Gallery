@@ -73,7 +73,7 @@ select:focus {
   background: #510aec;
 }
 .bg-image {
-  background-image: url("https://thumbor.forbes.com/thumbor/711x425/https://specials-images.forbesimg.com/imageserve/613df842ca2a4b60e210d8e4/Avatar-project-metaverse/960x0.jpg?fit=scale");
+  background-image: url("");
   filter: blur(8px);
 
   height: 100%;
